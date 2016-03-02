@@ -1,4 +1,4 @@
-# Uniqush.js [(API-Docs)](https://htmlpreview.github.io/?https://github.com/beevelop/uniqush.js/blob/master/docs/uniqush.js/0.0.1/Uniqush.html)
+# Uniqush.js ([API-Docs](https://htmlpreview.github.io/?https://github.com/beevelop/uniqush.js/blob/master/docs/uniqush.js/0.0.1/Uniqush.html))
 
 > Simple Node.js API abstraction for Uniqush
 
