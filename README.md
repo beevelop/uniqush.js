@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/uniqush.js.svg?style=flat-square)](https://www.npmjs.com/package/uniqush.js)[![Code Climate](https://img.shields.io/codeclimate/github/beevelop/uniqush.js.svg?style=flat-square)](https://codeclimate.com/github/beevelop/uniqush.js)[![Dependency Status](https://gemnasium.com/beevelop/uniqush.js.svg)](https://gemnasium.com/beevelop/uniqush.js)[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)[![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
+
 # Uniqush.js ([API-Docs](https://htmlpreview.github.io/?https://github.com/beevelop/uniqush.js/blob/master/docs/uniqush.js/0.0.1/Uniqush.html))
 
 > Simple Node.js API abstraction for Uniqush
