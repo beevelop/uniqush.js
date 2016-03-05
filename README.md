@@ -1,4 +1,9 @@
-[![npm](https://img.shields.io/npm/v/uniqush.js.svg?style=flat-square)](https://www.npmjs.com/package/uniqush.js)[![Code Climate](https://img.shields.io/codeclimate/github/beevelop/uniqush.js.svg?style=flat-square)](https://codeclimate.com/github/beevelop/uniqush.js)[![Gemnasium](https://img.shields.io/gemnasium/beevelop/uniqush.js.svg?style=flat-square)]()[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)[![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
+[![npm](https://shields.beevelop.com/npm/v/uniqush.js.svg?style=flat-square)](https://www.npmjs.com/package/uniqush.js)
+[![Code Climate](https://shields.beevelop.com/codeclimate/github/beevelop/uniqush.js.svg?style=flat-square)](https://codeclimate.com/github/beevelop/uniqush.js)
+[![Gemnasium](https://shields.beevelop.com/gemnasium/beevelop/uniqush.js.svg?style=flat-square)](https://gemnasium.com/beevelop/uniqush.js)
+[![js-standard-style](https://shields.beevelop.com/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
+![Badges](https://shields.beevelop.com/badge/badges-6-brightgreen.svg?style=flat-square)
+[![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
 # Uniqush.js ([API-Docs](https://htmlpreview.github.io/?https://github.com/beevelop/uniqush.js/blob/master/docs/uniqush.js/0.0.1/Uniqush.html))
 
